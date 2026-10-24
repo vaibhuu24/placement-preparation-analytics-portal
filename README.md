@@ -14,8 +14,6 @@ Database: MySQL
 
 Authentication: JWT (JSON Web Token)
 
-Developer: Vaibhav Desale
-
 2. 📖 Abstract
 
 The Placement Preparation & Analytics Portal is a full-stack web application developed to provide a centralized platform for managing student placement activities and placement preparation.
